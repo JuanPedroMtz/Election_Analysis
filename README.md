@@ -19,7 +19,13 @@ The purpose of this audit, was to find the data, and report the total votes, the
   Here is shown the for loop that we used to find this information on the candidates. 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes? The winner is Diana DeGette with a total of 272,892 votes and with the 73.8%
   In the last image, in the bottom part, we have the if statement on how we manage to show the candidate who won the election.
-
+  
+ ### Summary 
+ This program can be used to automate the results of every election we have in front. If we receive the CSV file in the same format (Ballot ID, County, Candidate), we just have to change the path to get the file where we are getting all the information. In case we receive the file with a differente format, we just need to make a minimal changes in order to get the results we want. 
+ 
+ For example, the election commision, at the final stages of my work, asked me to add the vote information of each county, what I did I just took as a base what we had with the candidates program, and I changed some variables in order to get the county information. 
+ 
+ 
 
   
   
