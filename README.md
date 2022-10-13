@@ -25,6 +25,10 @@ The purpose of this audit, was to find the data, and report the total votes, the
  
  For example, the election commision, at the final stages of my work, asked me to add the vote information of each county, what I did I just took as a base what we had with the candidates program, and I changed some variables in order to get the county information. 
  
+ Another example, would be if we move to another state, and for that reason we have new counties and off course new candidates. If we have this information in a new CSV file, we would just need to set the path to that document, and the program will do its magic. Even if we add more candidates, and more counties, the program will work as it is working now. 
+ 
+ This program will help you automatize the process of getting the results for every election in the country! You just have to make a few changes, and run the program, and that is it! 
+ 
  
 
   
